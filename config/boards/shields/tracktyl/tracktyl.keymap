@@ -8,6 +8,9 @@
 #define NUMS 2
 #define LWR 3
 
+/* just a little comment to trigger a build */
+
+
 / {
     keymap {
         compatible = "zmk,keymap";
