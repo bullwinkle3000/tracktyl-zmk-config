@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk
       remote: zmk
-      revision: pmw3360-tracktyl
+      revision: pmw3610-aml
       import: app/west.yml
   self:
     path: config
